@@ -1,0 +1,6 @@
+applications:
+- application_name: scanme.f5labs.dev
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: https://scanme.f5labs.dev
+  type: web
