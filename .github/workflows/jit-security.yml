@@ -1,4 +1,4 @@
-name: minimum viable security workflows for apcj@f5 github org
+name: pcj@f5 - minimum viable security workflows
 on:
   workflow_dispatch:
     inputs:
