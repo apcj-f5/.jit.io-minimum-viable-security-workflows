@@ -1,4 +1,4 @@
-name: jit.io - msinimum viable ecurity workflows for apcj@f5 github org
+name: msinimum viable security workflows for apcj@f5 github org
 on:
   workflow_dispatch:
     inputs:
