@@ -1,4 +1,4 @@
-oroname: jit.io - minimum viable security workflows for apcj@f5 github org
+oroname: security workflows for apcj@f5 github org
 on:
   workflow_dispatch:
     inputs:
