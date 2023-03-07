@@ -4,3 +4,23 @@ applications:
   exclude_paths: []
   target_url: https://scanme.f5labs.dev
   type: web
+- application_name: bank.f5labs.dev
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: https://bank.f5labs.dev
+  type: web
+- application_name: fp.f5labs.dev
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: https://fp.f5labs.dev
+  type: web
+ - application_name: canary.f5labs.dev
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: https://canary.f5labs.dev
+  type: web
+ - application_name: shape.f5labs.dev
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: https://shape.f5labs.dev
+  type: web
