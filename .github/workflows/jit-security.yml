@@ -1,4 +1,4 @@
-name: pcj@f5 - minimum viable security workflows
+name: apcj@f5 - minimum viable security workflows
 on:
   workflow_dispatch:
     inputs:
